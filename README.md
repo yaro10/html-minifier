@@ -1,1 +1,1 @@
-https://yaro10.github.io/html-minifier/
+https://ychrnmr.github.io/html-minifier/
